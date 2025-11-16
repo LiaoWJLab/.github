@@ -1,62 +1,62 @@
 # LiaoWJLab
 
-## 关于我们
+## About Us
 
-LiaoWJLab 专注于免疫肿瘤学和精准肿瘤学研究，致力于通过生物信息学和机器学习方法开发创新的肿瘤免疫治疗预测工具。
+LiaoWJLab specializes in immuno-oncology and precision oncology research. We are dedicated to developing innovative tumor immunotherapy prediction tools using bioinformatics and machine learning methods.
 
-## 主要项目
+## Main Projects
 
-### 开源项目
+### Open-source Projects
 
 #### 🧬 [TMEclassifier](https://github.com/LiaoWJLab/TMEclassifier)
-基于集成机器学习模型的肿瘤微环境亚型分类器
-- **语言**: R
-- **应用**: 胃癌、免疫治疗、肿瘤微环境分析
-- **⭐ Stars**: 7
+An ensemble machine learning–based tumor microenvironment subtype classifier
+- Language: R
+- Applications: gastric cancer, immunotherapy, tumor microenvironment analysis
+- ⭐ Stars: 7
 
 #### 🫁 [LIRA](https://github.com/LiaoWJLab/LIRA)
-肺癌免疫治疗反应人工智能预测模型
-- **语言**: R
-- **应用**: 肺癌免疫治疗反应预测
-- **⭐ Stars**: 3
+AI model for predicting lung cancer immunotherapy response
+- Language: R
+- Applications: lung cancer immunotherapy response prediction
+- ⭐ Stars: 3
 
 #### 📊 [IKCscore](https://github.com/LiaoWJLab/IKCscore)
-非小细胞肺癌免疫治疗预测评分系统
-- **语言**: R
-- **应用**: 非小细胞肺癌免疫治疗预测
-- **⭐ Stars**: 2
+Immunotherapy prediction scoring system for non–small cell lung cancer
+- Language: R
+- Applications: non–small cell lung cancer immunotherapy prediction
+- ⭐ Stars: 2
 
 #### 🔬 [scsig](https://github.com/LiaoWJLab/scsig)
-单细胞差异特征识别功能包
-- **语言**: R
-- **应用**: 单细胞测序数据分析
-- **⭐ Stars**: 2
+Single-cell differential feature identification package
+- Language: R
+- Applications: single-cell sequencing data analysis
+- ⭐ Stars: 2
 
 #### 🧪 [uaiscore](https://github.com/LiaoWJLab/uaiscore)
-尿路上皮癌辅助免疫治疗精准分层工具
-- **语言**: R
-- **应用**: 尿路上皮癌免疫治疗分层
+Adjuvant immunotherapy stratification tool for urothelial carcinoma
+- Language: R
+- Applications: urothelial carcinoma immunotherapy stratification
 
-### 进行中项目
+### In Progress
 
 #### 🧬 [FBI](https://github.com/LiaoWJLab/FBI)
-融合负荷指数分析流程 (Fusion Burden Index Analysis Pipeline)
-- **语言**: Shell
-- **状态**: 最近更新于 2025-11-15
+Fusion Burden Index analysis pipeline
+- Language: Shell
+- Status: Last updated on 2025-11-15
 
-## 研究方向
+## Research Focus
 
-我们的研究主要集中在以下领域：
-- 🎯 肿瘤免疫治疗反应预测
-- 🔬 肿瘤微环境分析
-- 🧬 单细胞测序数据分析
-- 🤖 机器学习在精准肿瘤学中的应用
-- 📊 生物信息学工具开发
+Our research primarily focuses on:
+- 🎯 Predicting responses to cancer immunotherapy
+- 🔬 Tumor microenvironment analysis
+- 🧬 Single-cell sequencing data analysis
+- 🤖 Applying machine learning to precision oncology
+- 📊 Developing bioinformatics tools
 
-## 许可证
+## License
 
-本组织的开源项目采用 MIT 许可证。
+The open-source projects under this organization are licensed under the MIT License.
 
 ---
 
-**LiaoWJLab** - 专注于免疫肿瘤学和精准肿瘤学 | Focus on Immuno-Oncology and Precision Oncology
+**LiaoWJLab** — Focused on Immuno-Oncology and Precision Oncology
